@@ -9,7 +9,7 @@
 #### The game was created using the following technologies:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript&perline=3)]([https://skillicons.dev](https://github.com/Sahil-Atahar/Car-Game))
 
-## [Click here to play](https://sahil-atahar.github.io/Car-Game/)
+## Click here to play: [Play Now](https://sahil-atahar.github.io/Car-Game/)
 
 ## :camera: Image Preview
 <img src="./images/preview1.png" alt="preview1">
